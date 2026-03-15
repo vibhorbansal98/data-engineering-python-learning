@@ -3,7 +3,6 @@ This repo is created to track all the learning for python data engineering
 
 ## Updates
 
-### 15 March 2026
 - **Condensed Python Introduction**: Streamlined the "Why should you learn Python?" section in `notes.txt` into 3 concise lines highlighting versatility, development speed, and applications.
 - **Added Data Type Explanations**: Included clear, brief notes on Python fundamentals in `notes.txt`:
   - Variables: Definition and assignment rules.
